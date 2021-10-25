@@ -1,10 +1,11 @@
 # Registration
 
 
-The **cARTano Alliance ** is a group of Cardano stake pool operators that swear never stop making art.
+The **cARTano Alliance** is a group of Cardano stake pool operators that swear never stop making art.
 
 # Requirements:
 - Github Account
+- Pool ID
 - Discord handle
 - At least 1 Social media account of your staking pool
 
