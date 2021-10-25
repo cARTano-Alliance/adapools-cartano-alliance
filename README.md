@@ -3,20 +3,20 @@
 
 The **cARTano Alliance ** is a group of Cardano stake pool operators that swear never stop making art.
 
-**Requirements:**
-Github Account
-Discord handle
-At least 1 Social media account of your staking pool
+# Requirements:
+- Github Account
+- Discord handle
+- At least 1 Social media account of your staking pool
 
 
-**Step 1** (Fork the cARTano registration repo):
+# Step 1 (Fork the cARTano registration repo):
 https://github.com/cARTano-Alliance/adapools-cartano-alliance
 Go to github.com and login with your account.
 Navigate to the cARTano registration Repo and fork it.
 
 ![1](https://user-images.githubusercontent.com/7429306/138784111-fe90bc3f-48ae-4352-b15a-ae8e4f135a75.png)
 
-**Step 2** (Add your pool info):
+# Step 2 (Add your pool info):
 After the repo has been forked in your namespace click on the registry.json file.
 ![2](https://user-images.githubusercontent.com/7429306/138784251-28a92109-eac6-4495-b342-9071fd1a09a0.png)
 
@@ -30,7 +30,7 @@ After you added all your information to the list click commit
 ![5](https://user-images.githubusercontent.com/7429306/138784275-c73599d0-1cd7-494c-9338-57009a57cdea.png)
 
 
-**Step 3** (Create your pull request):
+# Step 3 (Create your pull request):
 Click on “Pull requests”
 ![6](https://user-images.githubusercontent.com/7429306/138784285-e118c219-3e3b-4081-96af-ae056d9591f5.png)
 
