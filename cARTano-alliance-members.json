@@ -1,0 +1,33 @@
+{
+    "adapools": {
+        "about": {
+            "name": "cARTano Alliance",
+            "description_short": "We are group of Stake Pool Operators with ART mission.",
+            "description_long": "We believe in the combination of Cardano and ART.we dream art, we live art.",
+            "website": "https://discord.gg/WwvNA7vzVW",
+            "url_png_icon_64x64": "https://git.io/JiCoq",
+            "url_png_logo": "https://git.io/JiCoI",
+            "social": {
+                "twitter_handle": "",
+                "telegram_handle": "",
+                "facebook_handle": "",
+                "youtube_handle": "",
+                "twitch_handle": "",
+                "discord_handle": "WwvNA7vzVW",
+                "github_handle": "cARTano-Alliance"
+            },
+            "types": {
+                "charity": false,
+                "business": false,
+                "beneficial": true
+            }
+        },
+        "members": {
+            "0": {
+                "pool_id": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91",
+                "member_since": "2021-10-25",
+                "name": "ARARE (ADA Rare Stake Pool)"
+            }
+        }    
+    }
+}
