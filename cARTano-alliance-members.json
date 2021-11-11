@@ -27,6 +27,11 @@
                 "pool_id": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91",
                 "member_since": "2021-10-25",
                 "name": "ARARE (ADA Rare Stake Pool)"
+            },
+             "1": {
+                "pool_id": "4fbb9ac6b2c977ee76da892315fb1e26697a87bf8b54917efaa60053",
+                "member_since": "2021-11-11",
+                "name": "TILI (Stake Pool of Tili.Gallery)"
             }
         }    
     }
