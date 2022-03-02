@@ -1,20 +1,20 @@
 {
     "adapools": {
         "about": {
-            "name": "cARTano Alliance",
-            "description_short": "We are group of Stake Pool Operators with ART passion.",
-            "description_long": "cARTano Alliance is a collective of Stake Pool Operators related to ART",
-            "website": "https://discord.gg/sVqYmDBc6z",
-            "url_png_icon_64x64": "https://git.io/JiCoq",
-            "url_png_logo": "https://git.io/JiCoI",
+            "name": "KASH POOL",
+            "description_short": "Earn POOL KASH and ADA while Staking",
+            "description_long": "This pool was created as a single pool operator to promote the decentration of the Cardano block chain",
+            "website": "https://kashpool.io/",
+            "url_png_icon_64x64": "https://photos.google.com/photo/AF1QipND_4v5wKvI-zMj9pFzK2T2brJ5UnkDlMQmGTBZ",
+            "url_png_logo": "https://photos.google.com/photo/AF1QipND_4v5wKvI-zMj9pFzK2T2brJ5UnkDlMQmGTBZ",
             "social": {
-                "twitter_handle": "cARTanoAlliance",
+                "twitter_handle": "",
                 "telegram_handle": "",
-                "facebook_handle": "",
+                "facebook_handle": "Thorne128",
                 "youtube_handle": "",
                 "twitch_handle": "",
-                "discord_handle": "sVqYmDBc6z",
-                "github_handle": "cARTano-Alliance"
+                "discord_handle": "",
+                "github_handle": ""
             },
             "types": {
                 "charity": false,
@@ -27,6 +27,11 @@
                 "pool_id": "f65731aa68706607718d140426c75cd7ac2c40703c31c325fdd46f91",
                 "member_since": "2021-10-25",
                 "name": "ARARE (ADA Rare Stake Pool)"
+            },
+             "1": {
+                "pool_id": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5",
+                "member_since": "2022-02-26",
+                "name": "KASH"
             }
         }    
     }
